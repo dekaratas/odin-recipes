@@ -1,6 +1,6 @@
 # odin-recipes
 
-My goal was to write a simple home page listing links to various recipes that include an image, a list for ingredients and and a list of cooking steps.
+My goal was to write a simple home page listing links to various recipes that include an image, a list for ingredients and a list of cooking steps.
 
 In this small project I was able to reflect on the skills I have acquired
 throughout the HTML-Basics section of The Odin Project.
