@@ -12,6 +12,6 @@ These include:
 - Staging and committing via Git
 - Understanding what makes a sensible commit message
 - Utilizing ordered and unordered lists in HTML
-- Using various basic HTML tags such as <a>, <img> and <h2>
+- Using various basic HTML tags
 - Writing basic boilerplate code for an HTML file
 - Getting a better understanding for a website's file structure
