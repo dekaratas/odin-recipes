@@ -1,4 +1,5 @@
-# odin-recipes
+# Odin Recipes
+# (Exercise provided by The Odin Project)
 
 My goal was to write a simple home page listing links to various recipes that include an image, a list for ingredients and a list of cooking steps.
 
