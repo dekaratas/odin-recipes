@@ -1,5 +1,5 @@
 # Odin Recipes
-# (Exercise provided by The Odin Project)
+# Exercise provided by The Odin Project
 
 My goal was to write a simple home page listing links to various recipes that include an image, a list for ingredients and a list of cooking steps.
 
@@ -7,7 +7,7 @@ In this small project I was able to reflect on the skills I have acquired
 throughout the HTML-Basics section of The Odin Project.
 
 
-These include:
+# New skills utilized:
 - Working with Git
 - Cloning repositories from GitHub
 - Staging and committing via Git
